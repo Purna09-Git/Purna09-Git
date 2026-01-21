@@ -22,3 +22,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c,js,html,css,solidity" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,spring,dotnet,fastapi,jquery" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,mongodb,mysql,postgres,redis,firebase" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,figma,postman,linux,ubuntu" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=pytch,sklearn,tensorflow,numpy,pandas,matlab,tableau" />
+</p>
