@@ -27,11 +27,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,solidity" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,spring,dotnet,fastapi,jquery" />
-  <br>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,mongodb,mysql,postgres,redis,firebase" />
-  <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,figma,postman,linux,ubuntu" />
-  <br>
   <img src="https://skillicons.dev/icons?i=pytch,sklearn,tensorflow,numpy,pandas,matlab,tableau" />
 </p>
 
