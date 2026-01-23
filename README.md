@@ -44,7 +44,7 @@
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://skillicons.dev/icons?i=pytch,sklearn,tensorflow,numpy,pandas,matlab,tableau)
 
 ---
 
