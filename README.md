@@ -44,28 +44,8 @@
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
 
 ---
 
-### ⚡ GitHub & LeetCode Stats
-
-<div align="center">
-<!-- GitHub Stats -->
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=JayawanthRh&show_icons=true&theme=default&count_private=true&border_radius=10" alt="GitHub Stats" />
-
-<!-- LeetCode Card -->
-<img width="390" src="" alt="LeetCode Stats" />
-
-<!-- HackerRank Custom Badge -->
-<a href="https://www.hackerrank.com/JAYAWANTH_RH" target="_blank">
-  <img width="390" src="https://img.shields.io/badge/HackerRank-Problem_Solving:179,_SQL:180,_Java:200-brightgreen?style=for-the-badge&logo=hackerrank" alt="HackerRank Stats" />
-
-   </a>
-</div>
-
-</a>
-</div>
 
 
