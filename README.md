@@ -1,16 +1,6 @@
-## 👋Hi,I am Purna Mummani
-
-🚀 Software Engineer | Gen AI Enthusiast | Cloud & AI Explorer
-
-* 👀 I’m passionate about Full Stack Development, Cloud Computing, and Generative AI
-* 🌱 Currently learning Advanced System Design and Scalable Cloud Architecture
-* 💡 Always excited to build impactful web applications, contribute to open-source, and work on AI-powered solutions
-* 💞️ I'm currently looking for Co-Op and Full Time Roles.
-* [LinkedIn](https://www.linkedin.com/in/purna09/) | Email: **pmummani@charlotte.edu**
-
 <div align="center">
-  <h2>Hi there <img width="25" src="https://user-images.githubusercontent.com/52720489/204301028-338c8fd7-8a9c-490f-8007-4c302c5aa0c6.gif"> I am Jayawanth Rayakota Harnath</h2>
-  <h3>Software Engineer | Backend Developer</h3>
+  <h2>Hi there <img width="25" src="https://user-images.githubusercontent.com/52720489/204301028-338c8fd7-8a9c-490f-8007-4c302c5aa0c6.gif"> I am Purna Mummani</h2>
+  <h3>SSoftware Engineer | Gen AI Enthusiast | Cloud & AI Explorer</h3>
 </div>
 <br/>
 
@@ -26,9 +16,9 @@
 
 ### 📫 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jayawanth.rh01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayawanthrayak)
-[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayawanthRh)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:purna.mummani12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purna09/)
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purna09-Git)
 
 ---
 
