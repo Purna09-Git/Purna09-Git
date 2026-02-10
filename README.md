@@ -1,10 +1,16 @@
 <div align="center">
   <h2>Hi there <img width="25" src="https://user-images.githubusercontent.com/52720489/204301028-338c8fd7-8a9c-490f-8007-4c302c5aa0c6.gif"> I am Purna Mummani</h2>
-  <h3>SSoftware Engineer | Master's Grad @ UNC Charlotte | Gen AI Enthusiast | Cloud & AI Explorer</h3>
+  <h3>Software Engineer | Master's Grad @ UNC Charlotte | Gen AI Enthusiast | Cloud & AI Explorer</h3>
 </div>
 <br/>
 
 ### 💼 About Me
+
+I am a Machine Learning, Deep Learning, and Cloud Enthusiast. I like exploring new tech stacks I like to play with ML Algorithms, data, and execute analytical experiments, to create a positive impact across various domains and industries. I also contribute to open source.
+
+🌱 I’m currently learning Large Language Models (LLMs) , Retrieval Augmented Generation (RAG) and working on Deep Learning Projects
+
+💬 Lets Collaborate and Discuss on Data Engineering, Web Applications, Amazon Web Services, Google Cloud Platform
 
 💻 **Backend Developer** — Java, Spring Boot, Kafka, GraphQL  
 🚀 **Cloud Native** — AWS, IBM Cloud, Microservices, CI/CD  
@@ -15,6 +21,11 @@
 ---
 
 ### 📫 Connect with Me
+I am open to:
+
+any collaboration work,
+machine learning projects(development or research),
+2025 summer internships / full-time jobs [Software Engineer, Data Engineer, Full-Stack Dev, ML Engineer, Cloud Engineer]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purna09/)
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purna09-Git)
