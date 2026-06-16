@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi there <img width="25" src="https://user-images.githubusercontent.com/52720489/204301028-338c8fd7-8a9c-490f-8007-4c302c5aa0c6.gif"> I am Purna Mummani</h2>
+  <h2>Hi there <img width="25" src="https://user-images.githubusercontent.com/52720489/204301028-338c8fd7-8a9c-490f-8007-4c302c5aa0c6.gif"> I am Sai kiran Mummani</h2>
   <h3>Software Engineer | Master's Grad @ UNC Charlotte | Gen AI Enthusiast | Cloud & AI Explorer</h3>
 </div>
 <br/>
